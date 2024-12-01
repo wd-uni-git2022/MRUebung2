@@ -1,4 +1,6 @@
-import * as THREE from "three/build/three.module";
+//import * as THREE from "three/build/three.module";
+//import * as THREE from "../../node_modules/three/build/three.module.js";
+import * as THREE from 'three';
 // global scene values
 var btn, gl, glCanvas, camera, scene, renderer, cube;
 
